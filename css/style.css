@@ -30,3 +30,6 @@ legend, fieldset {
 figcaption {
   font-family: monospace;
 }
+.wrapper1 {
+  display: flex;
+}
