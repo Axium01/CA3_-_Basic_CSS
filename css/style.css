@@ -41,6 +41,10 @@ legend, fieldset {
 .wrapper2 > div {
   flex: 1
 }
+.positionedW2 {
+  position: relative;
+  top: 200px;
+}
 footer {
   position: absolute;
   right: 0;
