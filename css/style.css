@@ -38,6 +38,9 @@ legend, fieldset {
 .wrapper2 {
   display: flex;
 }
+.wrapper2 > div {
+  flex: 1
+}
 
 
   
