@@ -4,31 +4,16 @@ html {
   width: 100%;
 }
 
-h1 {
-  font-family: Josefin Sans, sans-serif;
-}
-
 h3 {
   text-decoration-line: underline;
   font-family: monospace;
 }
 
-p {
-  font-family: monospace;
-}
-
-ul {
-  font-family: monospace;
-}
-
-ol {
+h1, h2, p, ul, ol, figcaption {
   font-family: monospace;
 }
 legend, fieldset {
   color: rgb(5, 65, 161);
-}
-figcaption {
-  font-family: monospace;
 }
 .wrapper1 {
   display: grid;
