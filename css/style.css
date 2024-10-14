@@ -42,15 +42,13 @@ legend, fieldset {
   flex: 1
 }
 /* Positioning for wrapper2 */
+/* Positioning for wrapper2 */
 .positionedW2 {
   position: relative;
-  top: 200px;
+  top: 170px;
 }
 footer {
-  position: absolute;
+  position: fixed;
   right: 0;
   bottom: 0;
 }
-
-
-  
