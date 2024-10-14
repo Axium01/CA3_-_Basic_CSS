@@ -41,6 +41,7 @@ legend, fieldset {
 .wrapper2 > div {
   flex: 1
 }
+/* Positioning for wrapper2 */
 .positionedW2 {
   position: relative;
   top: 200px;
